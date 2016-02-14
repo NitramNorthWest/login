@@ -13,6 +13,7 @@
     <header>
       <a href="index.html" id="logo">
         <h1>Kyle Plancich</h1>
+        <h1>Hello GIT HUB</h1>
         <h2>Designer | Developer</h2>
       </a>
       <nav>
